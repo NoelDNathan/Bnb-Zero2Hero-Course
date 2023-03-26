@@ -1,7 +1,0 @@
-# pack-refs with: peeled fully-peeled sorted 
-006bff550c469549d5b99408ca2ddb92d510c0bc refs/heads/DefiFoundry
-5c37b47b36a5b815df6b2a155fdaeca901443605 refs/heads/Dev
-7859c8d15e2c81d0082f775e70adb1051bb7c867 refs/heads/Foundry
-31caa2ba785aa97195376897c279e538fe26ff37 refs/heads/audit
-ad4c07cff15b50f05a3827dfed9d35c45e38b625 refs/heads/gas
-1636735a02cbd44304e3eed635e36d816db4f8eb refs/heads/main
